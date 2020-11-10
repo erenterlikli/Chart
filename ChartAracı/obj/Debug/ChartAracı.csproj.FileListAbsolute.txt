@@ -1,0 +1,12 @@
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\bin\Debug\ChartAracı.exe.config
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\bin\Debug\ChartAracı.exe
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\bin\Debug\ChartAracı.pdb
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\obj\Debug\ChartAracı.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\obj\Debug\ChartAracı.Form1.resources
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\obj\Debug\ChartAracı.Properties.Resources.resources
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\obj\Debug\ChartAracı.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\obj\Debug\ChartAracı.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\obj\Debug\ChartAracı.exe
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\obj\Debug\ChartAracı.pdb
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\obj\Debug\ChartAracı.Form2.resources
+C:\Users\Eren\source\repos\ChartAracı\ChartAracı\obj\Debug\ChartAracı.Form3.resources
